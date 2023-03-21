@@ -1,0 +1,25 @@
+.Home {
+    background-color: lightblue;
+    padding: 5vh;
+}
+
+
+#project1 {
+    width: 50vh;
+}
+
+#project2 {
+    width: 50vh;
+}
+
+
+.middle {
+    background-color: lightgreen;
+    padding: 5vh;
+}
+
+.footer {
+    background-color: lightseagreen;
+    padding: 5vh;
+}
+
